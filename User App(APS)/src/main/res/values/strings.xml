@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">APS</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_signup">Signup</string>
+    <string-array name="Bookingtype">Booking_type
+        <item>select</item>
+        <item>Monthly pass</item>
+        <item>Single pass</item>
+
+    </string-array>
+    <string-array name="city">city
+        <item>select</item>
+        <item>Ahemdabad</item>
+        <item>Rajkot</item>
+
+    </string-array>
+
+    <string-array name="Ahemdabad">Ahemdabad
+        <item>select</item>
+        <item>Satellite Area</item>
+        <item>SG_road</item>
+        <item>Kakaria_lake</item>
+
+    </string-array>
+    <string-array name="Rajkot">city
+        <item>select</item>
+        <item>Bhakti Nagar</item>
+        <item>Race Course</item>
+        <item>Dhebar Road</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="Vehicle">Vehicle
+
+        <item>4 Wheeler/Car</item>
+        <item>2 Wheeler/Bike</item>
+        <item>Rickshaw</item>
+        <item>Tempo</item>
+    </string-array>
+</resources>
